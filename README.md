@@ -2,6 +2,8 @@
 
 A FigJam plugin for appending text onto selected sticky notes.
 
+![Sticky notes with two selected and the text [TODO] appended onto the selected notes' content.](./caboose-cover.png)
+
 ## Development guide
 
 *This plugin is built with [Create Figma Plugin](https://yuanqing.github.io/create-figma-plugin/).*
